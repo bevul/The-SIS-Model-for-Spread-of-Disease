@@ -1,5 +1,7 @@
 # The SIS Model for Spread of Disease
-The SIS model allows modeling epidemics in which individuals can be infected several times. The individual remains infected for a certain period of time, after the passage of this time, the individual receives immunity also for a certain period of time. Later it again becomes susceptible to the disease.
+This app allows modeling epidemics in which individuals can be infected several times. The individual remains infected for a certain period of time, after the passage of this time, the individual receives immunity also for a certain period of time. Later it again becomes susceptible to the disease.
+
+Was made using NetBeans.
 ## UI
 Infection behavior parameters:
 * N - number of people,
